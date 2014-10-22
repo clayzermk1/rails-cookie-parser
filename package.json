@@ -1,0 +1,24 @@
+{
+  "name": "rails-cookie-parser",
+  "version": "0.0.0",
+  "description": "Expose Rails session cookies in Express.",
+  "main": "index.js",
+  "keywords": [
+    "rails",
+    "cookie",
+    "session"
+  ],
+  "author": "Clay Walker <clayzermk1@gmail.com>",
+  "license": "PROPRIETARY",
+  "bugs": {
+    "url": "https://github.com/instore/rails-cookie-parser/issues"
+  },
+  "homepage": "https://github.com/instore/rails-cookie-parser",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/instore/rails-cookie-parser.git"
+  },
+  "dependencies": {
+    "marshal": "git+ssh://git@github.com:instore/node-marshal.git"
+  }
+}
