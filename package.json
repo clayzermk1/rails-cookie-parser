@@ -1,9 +1,10 @@
 {
   "name": "rails-cookie-parser",
-  "version": "0.0.1",
-  "description": "Expose Rails session cookies in Express.",
+  "version": "0.0.2",
+  "description": "Express middleware to parse Rails session cookies.",
   "main": "index.js",
   "keywords": [
+    "Rails",
     "rails",
     "cookie",
     "session"
@@ -19,6 +20,6 @@
     "url": "git://github.com/instore/rails-cookie-parser.git"
   },
   "dependencies": {
-    "marshal": "^0.1.0"
+    "marshal": "^0.1.1"
   }
 }
