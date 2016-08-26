@@ -20,6 +20,6 @@
     "url": "git://github.com/instore/rails-cookie-parser.git"
   },
   "dependencies": {
-    "marshal": "^0.1.1"
+    "marshal": "^0.2.1"
   }
 }
