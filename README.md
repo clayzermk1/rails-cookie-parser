@@ -29,6 +29,6 @@ app.use('/', function (req, res, next) {
 
 ## Features / Limitations
 
-`rails-cookie-parser` is restricted to the Marshal types that `node-marshal` supports.
+`rails-cookie-parser` is only able to parse `node-marshal`'s [supported Marshal types](https://github.com/instore/node-marshal#supported-types).
 
 `rails-cookie-parser` is not able to originate or manage Rails sessions, it is only able to read / "piggy-back" off of them.
