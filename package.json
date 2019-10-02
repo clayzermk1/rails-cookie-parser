@@ -1,6 +1,6 @@
 {
   "name": "rails-cookie-parser",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Express middleware to parse Rails session cookies.",
   "main": "index.js",
   "keywords": [
