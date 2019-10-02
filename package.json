@@ -12,12 +12,12 @@
   "author": "Clay Walker <clayzermk1@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/instore/rails-cookie-parser/issues"
+    "url": "https://github.com/clayzermk1/rails-cookie-parser/issues"
   },
-  "homepage": "https://github.com/instore/rails-cookie-parser",
+  "homepage": "https://github.com/clayzermk1/rails-cookie-parser",
   "repository": {
     "type": "git",
-    "url": "git://github.com/instore/rails-cookie-parser.git"
+    "url": "git://github.com/clayzermk1/rails-cookie-parser.git"
   },
   "dependencies": {
     "marshal": "0.4.0"

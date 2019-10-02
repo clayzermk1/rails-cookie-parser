@@ -1,6 +1,6 @@
 # rails-cookie-parser
 
-Express middleware to parse Rails session cookies. Uses [instore/node-marshal](https://github.com/instore/node-marshal) to parse Marshal strings into JavaScript objects.
+Express middleware to parse Rails session cookies. Uses [node-marshal](https://github.com/clayzermk1/node-marshal) to parse Marshal strings into JavaScript objects.
 
 ## Installation
 
@@ -29,6 +29,6 @@ app.use('/', function (req, res, next) {
 
 ## Features / Limitations
 
-`rails-cookie-parser` is only able to parse `node-marshal`'s [supported Marshal types](https://github.com/instore/node-marshal#supported-types).
+`rails-cookie-parser` is only able to parse `node-marshal`'s [supported Marshal types](https://github.com/clayzermk1/node-marshal#supported-types).
 
 `rails-cookie-parser` is not able to originate or manage Rails sessions, it is only able to read / "piggy-back" off of them.
